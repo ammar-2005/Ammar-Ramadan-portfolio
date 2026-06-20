@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@300;400;700&family=Cairo:wght@300;400;700&family=Tajawal:wght@300;400;700&display=swap');
+
+.font-tajawal, .font-tajawal * {
+    font-family: 'Tajawal', sans-serif !important;
+}
+
+.font-alexandria, .font-alexandria * {
+    font-family: 'Alexandria', sans-serif !important;
+}
+
+.font-cairo, .font-cairo * {
+    font-family: 'Cairo', sans-serif !important;
+}
